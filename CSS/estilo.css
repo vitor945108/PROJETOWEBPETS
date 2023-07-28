@@ -1,0 +1,23 @@
+.nav{ background-color: #6BF0E8;
+position:;
+left: 50px;
+}
+a{
+    color: black;
+    font-size: large;
+  margin-left: 150px;
+}
+.btn {
+  margin-left: 60px;
+background-color: #e03c30;
+}
+.dropdown-item{
+   
+    float: right;
+}
+figure{display: inline;
+    }
+#logo2{
+ 
+    margin-left: 250px;
+}
