@@ -9,7 +9,7 @@ a{
 }
 .btn {
   margin-left: 60px;
-background-color: #e03c30;
+background-color: #e62113;
 }
 .dropdown-item{
    
@@ -20,4 +20,16 @@ figure{display: inline;
 #logo2{
  
     margin-left: 250px;
+}
+.tabela{
+position:relative;
+left: 400px;
+}
+a:hover{background-color: #e62113;
+border-radius: 10px;
+padding-top: 1px;
+color: white
+}
+#log{
+text-decoration: none;
 }
