@@ -21,15 +21,16 @@ figure{display: inline;
  
     margin-left: 250px;
 }
-.tabela{
-position:relative;
-left: 400px;
-}
 a:hover{background-color: #e62113;
 border-radius: 10px;
 padding-top: 1px;
 color: white
 }
-#log{
-text-decoration: none;
+.d-flex{
+  padding-top: 20px;
+  margin: 10px;
 }
+#logo{
+  padding-right: ;
+}
+
