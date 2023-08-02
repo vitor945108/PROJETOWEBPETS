@@ -1,6 +1,6 @@
-.nav{ background-color: #6BF0E8;
-position:;
-left: 50px;
+.bg-menu{ 
+  
+  background-color: #6BF0E8;
 }
 a{
     color: black;
@@ -12,13 +12,10 @@ a{
 background-color: #e62113;
 }
 .dropdown-item{
-   
     float: right;
 }
-figure{display: inline;
-    }
+
 #logo2{
- 
     margin-left: 250px;
 }
 a:hover{background-color: #e62113;
@@ -30,10 +27,17 @@ color: white
   padding-top: 20px;
   margin: 10px;
 }
-#logo{
-  padding-right: ;
-}
 .row{
   text-align: center;
 }
-
+ .dropdown-toggle{
+  background-color: #e62113;
+ border-radius: 10px;
+ }
+ .dropdown-item{
+  float: left;
+  background-color: white;
+ }
+ figure{
+  width: 100px;
+ }
